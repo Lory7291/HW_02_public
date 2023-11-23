@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Crocodylidae</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<h1 >Crocodylidae</h1>
+<p>Crocodiles (family Crocodylidae) or true crocodiles are large semiaquatic<br/>
+    reptiles that live throughout the tropics in Africa, Asia, the Americas<br/>
+    and Australia. The term crocodile is sometimes used even more loosely to<br/>
+    include all extant members of the order Crocodilia, which includes the<br/>
+    alligators and caimans (family Alligatoridae), the gharial and false<br/>
+    gharial (family Gavialidae) among other extinct taxa.</p>
+<br/>
+<a href="https://en.wikipedia.org/wiki/Crocodile"target="_blank">Click here to learn more..........</a>
+
+<br/>
+<h2>More species of crocodiles</h2>
+
+<a href="https://en.wikipedia.org/wiki/Orinoco_crocodile"
+   target="_blank">
+    <img src="imagines/Orinoko.jpg"
+         width="320px"
+         height="240px"
+         title="Orinoco crocodile"
+         alt="Orinoco crocodile"/>
+</a>
+
+<a href="https://en.wikipedia.org/wiki/American_crocodile"
+   target="_blank">
+    <img src="imagines/CrocodileAmerican.jpg"
+         width="320px"
+         height="240px"
+         title="American crocodile"
+         alt="American crocodile"/>
+</a>
+
+<a href="https://en.wikipedia.org/wiki/Philippine_crocodile"
+   target="_blank">
+    <img src="imagines/Philipine.jpg"
+         width="320px"
+         height="240px"
+         title="Philipine crocodile"
+         alt="Philipine crocodile"/>
+</a>
+
+    <h2>Crocodile</h2>
+    <ol>
+        <li>Orinoco crocodile</li>
+        <li>American crocodile</li>
+        <li>Philipine crocodile</li>
+    </ol>
+
+    <table border="3px">
+        <tr>
+            <th colspan="6"  > All types of crocodiles</th>
+
+        </tr>
+
+        <tr>
+            <th>Number</th>
+            <th>Name</th>
+            <th>Distribution</th>
+            <th>Binomial name</th>
+            <th>Lifetime</th>
+            <th>Weight</th>
+        </tr>
+
+        <tr>
+            <td>1</td>
+            <td> American crocodile </td>
+            <td> Throughout the Caribbean Basin, including many of the Caribbean islands and South Florida. </td>
+            <td> Crocodylus acutus Cuvier, 1807 </td>
+            <td> 70-100 years</td>
+            <td> 400-900 kg</td>
+        </tr>
+
+        <tr>
+            <td>2</td>
+            <td> Hall's New Guinea crocodile </td>
+            <td> The island of New Guinea, south of the New Guinea Highlands </td>
+            <td> Crocodylus halli Murray, Russo, Zorrilla & McMahan, 2019 </td>
+            <td rowspan="5"> 60-70 years</td>
+            <td> 70-150 kg</td>
+        </tr>
+
+        <tr>
+            <td>3</td>
+            <td> Orinoco crocodile </td>
+            <td> Colombia and Venezuela </td>
+            <td> Crocodylus intermedius Graves, 1819 </td>
+            <td> 380-500 kg</td>
+        </tr>
+
+        <tr>
+            <td>4</td>
+            <td> Freshwater crocodile </td>
+            <td> Northern Australia </td>
+            <td> Crocodylus johnstoni Krefft, 1873 </td>
+            <td> 60-100 kg</td>
+        </tr>
+
+        <tr>
+            <td>5</td>
+            <td> Philippine crocodile </td>
+            <td> Endemic to the Philippines </td>
+            <td> Crocodylus mindorensis Schmidt, 1935 </td>
+            <td> 150-200 kg</td>
+        </tr>
+
+        <tr>
+            <td>6</td>
+            <td> Morelet's crocodile </td>
+            <td> Atlantic regions of Mexico, Belize and Guatemala </td>
+            <td> Crocodylus moreletii (A.H.A. Duméril & Bibron, 1851) </td>
+            <td> 80-150 kg</td>
+        </tr>
+
+        <tr>
+            <td>7</td>
+            <td> Nile crocodile </td>
+            <td> Sub-saharan Africa </td>
+            <td> Crocodylus niloticus Laurenti, 1768 </td>
+            <td> 70-100 years</td>
+            <td> 225-550 kg</td>
+        </tr>
+
+        <tr>
+            <td>8</td>
+            <td> New Guinea crocodile </td>
+            <td> The island of New Guinea, north of the New Guinea Highlands </td>
+            <td> Crocodylus novaeguineae (Schmidt, 1928) </td>
+            <td> 60-70 years</td>
+            <td> 70-130 kg</td>
+        </tr>
+
+        <tr>
+            <td>9</td>
+            <td> Mugger crocodile </td>
+            <td> The Indian subcontinent and surrounding countries </td>
+            <td> Crocodylus palustris (Lesson, 1831) </td>
+            <td> 40-70 years</td>
+            <td> 200-350 kg</td>
+        </tr>
+
+        <tr>
+            <td>10</td>
+            <td> Saltwater crocodile </td>
+            <td> Throughout Southeast Asia, Northern Australia and surrounding waters </td>
+            <td> Crocodylus porosus Schneider, 1801 </td>
+            <td> 70-100 years</td>
+            <td> +-1000 kg</td>
+        </tr>
+
+        <tr>
+            <td>11</td>
+            <td> Borneo crocodile  </td>
+            <td> Island of Borneo in Southeast Asia </td>
+            <td> Crocodylus raninus S. Müller & Schlegel, 1844 </td>
+            <td> 50-70 years</td>
+            <td> 150-500 kg</td>
+        </tr>
+
+        <tr>
+            <td>12</td>
+            <td> Cuban crocodile </td>
+            <td> Found only in the Zapata Swamp and Isle of Youth of Cuba </td>
+            <td> Crocodylus rhombifer Cuvier, 1807 </td>
+            <td> 60-70 years</td>
+            <td> 70-100 kg</td>
+        </tr>
+
+        <tr>
+            <td>13</td>
+            <td> Siamese crocodile </td>
+            <td> Indonesia, Brunei, East Malaysia and southern Indochina </td>
+            <td> Crocodylus siamensis Schneider, 1801 </td>
+            <td> +-70 years</td>
+            <td> 150-300 kg</td>
+        </tr>
+
+        <tr>
+            <td>14</td>
+            <td> West African crocodile </td>
+            <td> Western and Central Africa </td>
+            <td> Crocodylus suchus Geoffroy, 1807 </td>
+            <td> 50-70 years</td>
+            <td> 40-80 kg</td>
+        </tr>
+
+        <tr>
+            <td>15</td>
+            <td> Osborn’s dwarf crocodile </td>
+            <td rowspan="3">  Western Africa </td>
+            <td> Osteolaemus osborni Schmidt, 1919 </td>
+            <td rowspan="2"> 40-60 years</td>
+            <td> 20-40 kg</td>
+        </tr>
+
+        <tr>
+            <td>16</td>
+            <td> Dwarf crocodile </td>
+            <td> Osteolaemus tetraspis Cope, 1861[4] </td>
+            <td> 40-70 kg</td>
+        </tr>
+
+        <tr>
+            <td>17</td>
+            <td> West African slender-snouted crocodile </td>
+            <td> Mecistops cataphractus (Cuvier, 1825) </td>
+            <td rowspan="2"> 50-70 years</td>
+            <td> 90-210 kg</td>
+        </tr>
+
+        <tr>
+            <td>18</td>
+            <td> Central African slender-snouted crocodile </td>
+            <td> Central Africa </td>
+            <td> Mecistops leptorhynchus (Bennett, 1835)[2] </td>
+            <td> 90-210 kg</td>
+        </tr>
+    </table>
+
+</body>
+</html>
